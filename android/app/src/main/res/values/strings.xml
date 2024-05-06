@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='utf-8' ?>
 <resources>
-    <string name="app_name">mega-utils-app</string>
-    <string name="title_activity_main">mega-utils-app</string>
+    <string name="app_name">Mega Utils</string>
+    <string name="title_activity_main">Mega Utils</string>
     <string name="package_name">com.esxprojects.megautils</string>
     <string name="custom_url_scheme">com.esxprojects.megautils</string>
 </resources>
