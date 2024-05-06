@@ -1,0 +1,10 @@
+{
+  "appId": "com.esxprojects.megautils",
+  "appName": "mega-utils",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
